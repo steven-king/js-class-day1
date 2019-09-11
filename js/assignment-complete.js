@@ -18,6 +18,7 @@ console.log(teams);
 console.log(wins);
 console.log(losses);
 console.log(teams[0]);
+console.log(wins[0]);
 
 htmlBuilder = '<h2>National League</h2><div class="team-list">'
 htmlBuilder += '<table><tr><th>Team</th><th>Wins</th><th>Losses</th></tr>'
